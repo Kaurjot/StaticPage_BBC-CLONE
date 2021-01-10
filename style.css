@@ -1,0 +1,183 @@
+body{
+  margin:0;
+  font-family:arial,helvetica,freesans,sans-sarif;
+}
+.fixed-width{
+
+width:1000px;
+
+margin:0 auto;
+
+}
+.top-bar{
+  background-color:white;
+
+width:100%;
+
+height:40px;
+}
+color:black;
+  .top-bar ul{
+    margin:0;
+    padding:0;
+    list-style:none;
+  }
+.top-bar ul li{
+  float:left;
+  list-style:none;
+  border-right:1px solid
+  font-weight:bold;
+  font-size:1.3em;
+  padding:10px 20px 10px 30px;
+  border-right:1px solid;
+}
+  
+
+.news-bar{
+ background-color: #bb1919;
+width:100%;
+
+height:60px;
+
+color:white; 
+}
+
+
+.category-bar{
+  background-color:#A91717;
+
+width:100#;
+
+height:30px;
+
+color:white;
+ 
+}
+.location-bar{
+  background-color=white;
+
+width:100%;
+
+height:40px;
+
+color:black;
+}
+.location-bar ul{
+  margin:0;
+  padding:0;
+  list-style:none;
+}
+.location-bar ul li{
+  float:left;
+  font-size:0.9em;
+  font-family:arial;
+  padding:12px 12px 0px 12px;
+  border-right:1px solid;
+  postion:relative;
+  right:25px;
+  #B4B4B4
+list-style:none;
+  
+}
+.category-bar ul{
+  margin:0;
+  padding:0;
+  list-style:none;
+}
+#k{
+  font-weight:bold;
+  font-size:1.3em;
+}
+.category-bar ul li{
+  float:left;
+  font-family:arial;
+  font-size:0.9m;
+  border-right:1px solid;
+  padding:3px 10px 9px 10px;
+  position:relative;
+  right:10px;
+  top:02px;
+}
+#logo{
+
+float:LEFT;
+
+padding-top: 6px;
+
+padding-right: 10px;
+
+padding-bottom: 6px;
+  border-right:1px solid;
+  #B4B4B4;
+}
+.content{
+  width:100%;
+  background-color:white;
+  color:#000000;
+}
+.content img{
+  float:right; 
+  position:relative;
+  right:308px;
+}
+.content p{
+  width:215px;
+}
+#content-links{
+  width:250px;
+  color:blue;
+}
+#sign-in{
+  float:left;
+  font-weight:bold;
+  font-size:1.1em;
+  padding-right:34px;
+  border-right:1px solid;
+  padding-bottom:18px;
+} 
+#search-box{
+  float:left;
+  width:30px;
+  padding:2px;
+   }
+#search-box input{
+    background-image: url("../img/gel-icon-search-dark.svg");
+  background-repeat:no-repeat;
+  background-position:right-center;
+}
+
+.news-bar p{
+  margin:0;
+  padding:0;
+  font-size:2.2em;
+  font-family:arial;
+  position:relative;
+  right:2px;
+}
+#h1{
+  font-weight:bold;
+    font-size:2em;
+  color:#1167A8;
+  font-family:  font-family;}
+  #h2{
+  font-weight:bold;
+    font-size:1.5em;
+ font-family:arial;
+    
+}  
+.watch-listen{
+  float:right;
+  position:relative;
+  bottom:350px;
+  right:240px;
+  border-left:1px solid;
+    #B4B4B4
+  
+  padding:0 0 0 25px; 
+}
+.watch-listen p{
+  width:200px;
+}
+.watch-listen ul{
+  width:200px;
+}
